@@ -169,7 +169,7 @@ Pull requests are welcome! To contribute:
 
 For questions or support, reach out via:
 
-- Email: `codesuke@gmail.com`
+- Email: `aryangypta321@gmail.com`
 - GitHub Issues
 
 🚀 **Happy Coding!** 🚀
